@@ -46,4 +46,4 @@ bot.on('guildMemberAdd', member => {
 
 });
 
-bot.login("YOUR BOT COMMAND");
+bot.login("YOUR BOT TOKEN");
